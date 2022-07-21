@@ -1,0 +1,14 @@
+C:\Users\Geekea\source\repos\musics\musics\bin\Debug\netcoreapp3.1\musics.exe
+C:\Users\Geekea\source\repos\musics\musics\bin\Debug\netcoreapp3.1\musics.deps.json
+C:\Users\Geekea\source\repos\musics\musics\bin\Debug\netcoreapp3.1\musics.runtimeconfig.json
+C:\Users\Geekea\source\repos\musics\musics\bin\Debug\netcoreapp3.1\musics.runtimeconfig.dev.json
+C:\Users\Geekea\source\repos\musics\musics\bin\Debug\netcoreapp3.1\musics.dll
+C:\Users\Geekea\source\repos\musics\musics\bin\Debug\netcoreapp3.1\musics.pdb
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.csproj.AssemblyReference.cache
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.AssemblyInfoInputs.cache
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.AssemblyInfo.cs
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.csproj.CoreCompileInputs.cache
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.dll
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.pdb
+C:\Users\Geekea\source\repos\musics\musics\obj\Debug\netcoreapp3.1\musics.genruntimeconfig.cache
